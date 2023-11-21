@@ -1,0 +1,38 @@
+.container {
+  margin: 0 auto;
+  width: 70%;
+  margin-top: 30px;
+}
+.table {
+  width: 100%;
+  border: 1px solid lightgray;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.td {
+  padding: 20px;
+  border: 1px solid lightgray;
+  font-size: 18px;
+  font-weight: 700;
+}
+.tr,
+.th {
+  height: 70px;
+}
+
+.input {
+  height: 50px;
+  width: 69%;
+  margin-left: 287px;
+  font-size: 18px;
+  background-color: lightblue;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+.btn {
+  width: 100px;
+  height: 50px;
+}

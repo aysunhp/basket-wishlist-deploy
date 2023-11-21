@@ -1,0 +1,38 @@
+.table {
+  width: 70%;
+  border: 1px solid lightgray;
+  margin: 0 auto;
+}
+.td {
+  padding: 20px;
+  border: 1px solid lightgray;
+  font-size: 18px;
+  font-weight: 700;
+}
+.tr,
+.th {
+  height: 70px;
+  font-weight: bold;
+}
+.input {
+  height: 50px;
+  width: 69%;
+  font-size: 18px;
+  background-color: lightblue;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+.btn {
+  width: 150px;
+  height: 50px;
+  background-color: #add8e6;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}

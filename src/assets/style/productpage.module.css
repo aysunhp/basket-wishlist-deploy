@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 33px;
+  margin: 0 auto;
+  width: 70%;
+  margin-bottom: 40px;
+}
+.div {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+.h1 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  display: block;
+  width: 100%;
+}
+.btn {
+  margin-left: 43px;
+}
+
+.divv {
+  width: 60px;
+  height: 40px;
+  border-radius: 6px;
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 7px;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
